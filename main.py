@@ -1,6 +1,6 @@
 #2
 class Circle:
     def __init__(self, ridius):
-        self.area = area
-    def area(self):
+        self.radius = radius
+    def area(self):return 3.14159 * self.radius
         print(f'')
